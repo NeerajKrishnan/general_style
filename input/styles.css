@@ -1,0 +1,43 @@
+.input_part{
+
+
+
+}
+
+.fixed_width{
+
+    width: 100px !important;
+}
+
+.input_group{
+    display: flex;
+    padding: 10px;
+    
+    
+    
+    }
+
+.app_label{
+
+    font-size: 15px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100px !important;
+
+}
+.app_input{
+    font-size: 15px;
+    margin-left: 20px;
+    border-width:0px;
+    outline: none;
+    border-bottom-width: 0.1px;
+    border-bottom-color:black;
+
+    
+}
+
+.app_input:hover{
+    border-bottom-width: 2px;
+    border-bottom-color: rgb(80, 80, 79);
+
+
+}
