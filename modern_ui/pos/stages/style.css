@@ -1,0 +1,27 @@
+.main_screen_stages{
+ 
+    background-color: rgb(212, 100, 100);
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    font-weight: bolder;
+    justify-content: center;
+    text-align: center;
+    border-radius: 15px 50px 30px;
+    box-shadow: 0 4px 8px 0 rgba(255, 6, 6, 0.2), 0 6px 20px 0 rgba(247, 0, 0, 0.19);
+
+
+}
+
+.main_screen_stages:hover{
+ 
+    background-color: black;
+    padding: 10px;
+    color: white;
+    font-weight: bolder;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
