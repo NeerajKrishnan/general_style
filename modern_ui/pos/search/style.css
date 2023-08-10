@@ -1,0 +1,33 @@
+.main_search_pos{
+ 
+    width: 50%;
+    padding: 10px;
+    height: 15px;
+    border-radius: 10px;
+    text-align: center;
+    outline: none;   
+    border-color:rgb(129, 129, 129);
+    border-width: 1px;
+    font-size: 18px;
+    background-color: rgb(221, 220, 220);
+    
+
+}
+.main_search_pos:hover{
+ 
+    width: 50%;
+    padding: 10px;
+    height: 15px;
+    border-radius: 10px;
+    text-align: center;
+    outline: none;   
+    border-color:rgb(129, 129, 129);
+    border-width: 1px;
+    font-size: 18px;
+    background-color: rgb(235, 235, 235);
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    
+
+}
+
