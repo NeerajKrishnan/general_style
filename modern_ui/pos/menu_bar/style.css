@@ -1,0 +1,75 @@
+.side_bar_filter{
+background-color:rgb(255, 249, 249);
+width: 300px;
+padding: 10px;
+text-align: left;
+box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2), 0 2px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+.side_bar_filter:hover{
+    background-color:white;
+    width: 300px;
+    padding: 10px;
+    text-align: left;
+    box-shadow: 0 2px 8px 0 rgba(218, 58, 58, 0.2), 0 2px 20px 0 rgba(161, 49, 49, 0.19);
+    
+    }
+
+
+.filter_group{
+
+    display: block;
+}
+.date_filter_input{
+    border-width: 0px;
+    width: 200px;
+    height: 25px;
+    outline: none;
+    background-color: antiquewhite;
+    font-size: large;
+    
+}
+
+.date_filter_label{
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+}
+
+.date_filter_select{
+    width: 200px;
+    height: 20px;
+    border-width: 0px;
+    outline: none;
+    font-size: 15px;
+
+}
+
+.date_filter_select:hover{
+    width: 200px;
+    height: 20px;
+    border-width: 0px;
+    background-color:rgb(255, 249, 249);
+
+}
+.date_filter_button{
+    background-color: brown;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    border-width: 0px;
+    color: white;
+    font-weight: bold;
+}
+
+.date_filter_button:hover{
+    background-color: rgb(241, 25, 25);
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    border-width: 0px;
+    color: white;
+    font-weight: bold;
+}
