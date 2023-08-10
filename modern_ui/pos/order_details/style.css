@@ -1,0 +1,122 @@
+.order_details_full{
+
+width: 500px;
+background-color: rgb(255, 254, 254);
+box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+.order_details_full > .header_order{
+
+    background-color: rgb(255, 255, 251);
+    font-size: 25px;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-weight: bolder;
+    }
+
+.order_details_full > .details_branch{
+
+        font-size: 15px;
+        margin: 10px;
+        background-color: rgb(202, 125, 125);
+        padding-left: 20px;
+        border-width: 0px;
+        color: rgb(255, 255, 255);
+        text-align: left;
+        box-shadow: 0 1px 2px 0 rgba(255, 6, 6, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+        font-weight: bolder;
+        }
+
+.order_details_full > .partner_address_card{
+    font-weight: bolder !important;
+    text-align: left;
+}
+
+.order_details_full > .other_details_address_card{
+    font-weight: bolder !important;
+    text-align: right;
+}
+
+.other_details_address_card > .list_style_other_details{
+
+list-style: none;
+
+}
+
+.customer_note{
+    padding: 20px;
+
+}
+
+.order_line_details{
+    background-color: rgb(253, 241, 236);
+    padding: 10px;
+    display: flex;
+
+}
+.order_line_details > .name_of_product{
+    font-size: 20px;
+    font-weight:bolder;
+}
+
+
+.order_line_details > .qty_of_product{
+    font-size: 20px;
+    font-weight:bolder;
+    display: flex;
+    padding-left: 50%;
+}
+.order_custom{
+    display: block;
+    list-style: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+
+}
+.order_line_main{
+    background-color: rgb(245, 242, 240);
+    margin-top: 10px;
+    padding: 10px;
+
+}
+
+.order_subtotal{
+    display: flex;
+    padding: 20px;
+    font-size: 25px;
+    font-weight: bolder;
+    flex-direction: row-reverse;
+
+}
+
+.next_stage_button{
+    display: inline-block;
+    padding: 10px;
+    background-color: rgb(223, 135, 135);
+    border-radius: 10px;
+    border-width: 0px;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    flex-direction: row-reverse;
+    box-shadow: 0 1px 2px 0 rgba(255, 6, 6, 0.2), 0 6px 20px 0 rgba(231, 27, 27, 0.19);
+
+}
+
+
+.next_stage_button:hover{
+    display: inline-block;
+    padding: 10px;
+    background-color: rgb(240, 93, 93);
+    border-radius: 10px;
+    border-width: 0px;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    flex-direction: row-reverse;
+    box-shadow: 0 1px 2px 0 rgba(63, 60, 60, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
